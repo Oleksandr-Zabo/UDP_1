@@ -1,4 +1,4 @@
-﻿namespace UDP_client;
+﻿namespace UDP_1;
 
 using System;
 using System.Net;
