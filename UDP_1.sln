@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_Server", "UDP_Server\UDP_Server.csproj", "{61637606-9F3C-4E6D-B843-46AE45EA1FEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerWPF", "UDPServerWPF\UDPServerWPF.csproj", "{FC4564F8-45B7-4203-A40A-DDFF36BA7F60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_client", "UDP_client\UDP_client.csproj", "{5D199690-0BD5-466C-9DCA-4ED21C05753D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientWPF", "UDPClientWPF\UDPClientWPF.csproj", "{819A1B6B-C4D7-4838-8063-4822B06AC920}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{61637606-9F3C-4E6D-B843-46AE45EA1FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61637606-9F3C-4E6D-B843-46AE45EA1FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61637606-9F3C-4E6D-B843-46AE45EA1FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61637606-9F3C-4E6D-B843-46AE45EA1FEA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D199690-0BD5-466C-9DCA-4ED21C05753D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D199690-0BD5-466C-9DCA-4ED21C05753D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D199690-0BD5-466C-9DCA-4ED21C05753D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D199690-0BD5-466C-9DCA-4ED21C05753D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4564F8-45B7-4203-A40A-DDFF36BA7F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4564F8-45B7-4203-A40A-DDFF36BA7F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4564F8-45B7-4203-A40A-DDFF36BA7F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4564F8-45B7-4203-A40A-DDFF36BA7F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819A1B6B-C4D7-4838-8063-4822B06AC920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819A1B6B-C4D7-4838-8063-4822B06AC920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819A1B6B-C4D7-4838-8063-4822B06AC920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819A1B6B-C4D7-4838-8063-4822B06AC920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

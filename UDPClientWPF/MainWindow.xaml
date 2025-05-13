@@ -1,0 +1,12 @@
+﻿<Window x:Class="UDPClientWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UDP Client" Height="350" Width="400">
+    <Grid>
+        <Button Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Connect_Click"/>
+        <Button Content="Send Request" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="130,0,0,0" Click="SendRequest_Click"/>
+        
+        <ListBox Name="ProductList" HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" Height="100" Margin="0,50,0,0"/>
+        <ListBox Name="ResponseList" HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" Height="100" Margin="0,160,0,0"/>
+    </Grid>
+</Window>
